@@ -11,7 +11,7 @@ BITPoliTO is a student team at *Politecnico di Torino* dealing with cryptocurren
 BITPoliTO currently has `3` public GitHub repositories:
 - [BITPoliTO/podcast](https://github.com/BITPoliTO/podcast) contains all podcast episode mp3 files and marketing material.
 - [BITPoliTO/schnorr-sig](https://github.com/BITPoliTO/schnorr-sig) contains an implementation of an educational Schnorr signatures utility.
-- [BITPoliTO/bitcoin-alert](https://github.com/BITPoliTO/bitcoin-alert) contains a small Bitcoin alert script inspired by the HBO show *Silicon Valley*
+- [BITPoliTO/bitcoin-alert](https://github.com/BITPoliTO/bitcoin-alert) contains a small Bitcoin alert script inspired by the HBO show *Silicon Valley*.
 
 ## Contacts
 You can find us on the following platforms.
