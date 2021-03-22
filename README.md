@@ -2,13 +2,13 @@
   <img width="20%" height="20%" src="./icons/logo-dark-bg-rounded.png" />
 </p>
 
-# **BITPoliTO**
-Welcome to **BITPoliTO**'s GitHub organization page.
+# **BIT PoliTO**
+Welcome to **BIT PoliTO**'s GitHub organization page.
 
 BITPoliTO is a student team at *Politecnico di Torino* dealing with cryptocurrencies, cryptography and blockchain technology.
 
 ## Public Repositories
-BITPoliTO currently has `3` public GitHub repositories:
+BIT PoliTO currently has `3` public GitHub repositories:
 - [BITPoliTO/podcast](https://github.com/BITPoliTO/podcast) contains all podcast episode mp3 files and marketing material.
 - [BITPoliTO/schnorr-sig](https://github.com/BITPoliTO/schnorr-sig) contains an implementation of an educational Schnorr signatures utility.
 - [BITPoliTO/bitcoin-alert](https://github.com/BITPoliTO/bitcoin-alert) contains a small Bitcoin alert script inspired by the HBO show *Silicon Valley*.
